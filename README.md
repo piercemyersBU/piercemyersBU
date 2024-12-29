@@ -1,6 +1,13 @@
-## Hey there 👋
-### I am currently pursuiung my masters at Boston Univerity for Data Science and this github account will capture that journey.
+# Hey there! 👋
 
+## About Me
+
+I'm currently pursuing my Master's in **Data Science** at **Boston University**. This GitHub account will be a snapshot of my academic and professional journey as I delve deeper into the world of data science. 🚀
+
+Feel free to explore my projects, contributions, and the tools I've been learning along the way!
+
+### Connect with Me
+- **LinkedIn**: https://www.linkedin.com/in/pierce-myers/
 <!--
 **piercemyersBU/piercemyersBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
