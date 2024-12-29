@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there 👋
+# I am currently pursuiung my masters at Boston Univerity for Data Science and this github account will capture that journey.
 
 <!--
 **piercemyersBU/piercemyersBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
